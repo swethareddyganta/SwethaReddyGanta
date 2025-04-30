@@ -1,111 +1,95 @@
-<h1 align="center">🧠 Swetha Reddy Ganta</h1>
+<!-- Header Banner Simulation -->
 <p align="center">
-  <em>Machine Learning Engineer | Creative Writer | Anime Fanatic</em>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkczE2MGM1anRxYnd4ZnFnNzc0eGxrN2lrbWx5b3A4YXFsNzBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KH26c44GWcwlty8DnW/giphy.gif" width="100%" alt="coding animation" />
 </p>
 
+<h1 align="center"> Swetha Reddy Ganta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&lines=AI+Engineer+by+Day+🤖;Writer+by+Night+✍️;Anime+Buff+24%2F7+🌀" />
+  <em>AI Engineer | Writer at heart | Anime Enthusiast (not a weeb) | **Open to work**</em>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+by+Day+🤖;Writer+by+Night+✍️;Anime+Buff+24%2F7+🌀" />
 </p>
 
 ---
 
-<div align="right">
+## 👋 About Me
 
-🌓 <strong>Theme:</strong> <code>Dark Mode Enabled</code>
+Hey there! I’m **Swetha**, an AI Engineer who:
 
-</div>
+- Builds LLMs and NLP pipelines with fewer bugs than regrets  
+- Believes even prompts should have personality  
+- Craves expressive code and compelling character arcs  
+- Will probably debug your ML model *and* your anime takes
 
----
-
-## 💡 About Me
-
-Hi, I’m Swetha – a machine whisperer with a flair for storytelling and an affection for anime plot twists.  
-Graduated 🎓 from **SUNY Buffalo** in AI, I specialize in:
-
-- 🔍 Building smart, scalable, real-world AI systems  
-- 📦 Wrangling messy data into beautiful models  
-- ✍️ Writing prompts (and prose) that actually make sense  
-- 💥 Making neural nets *look good*
+🎓 Master’s in AI from **SUNY Buffalo**  
+📌 Currently **open to full-time AI/ML roles**
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Highlight Projects
 
-<table>
-  <tr>
-    <td><strong>🤖 Intelli-Chat</strong><br/>
-      <sub>A chatbot trained on 60,000+ Wikipedia articles + OpenAI for brains = conversational magic.</sub><br/>
-      <a href="https://github.com/swethareddyganta/intelli-chat">🔗 Explore Project</a>
-    </td>
-    <td><strong>🧠 Meme Persuasion Detector</strong><br/>
-      <sub>Detects persuasive memes using NLP + CV. Because memes matter too.</sub><br/>
-      <a href="https://github.com/swethareddyganta/MemePersuasionDetection">🔗 Explore Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧰 Red Hat LLM Toolkit</strong><br/>
-      <sub>Toolkit for training and optimizing enterprise-ready LLMs with fine-tuning, quantization, & monitoring.</sub><br/>
-      <a href="https://github.com/swethareddyganta/LLM_Redhat_Toolkit">🔗 Explore Project</a>
-    </td>
-    <td><strong>🌐 Language Translator</strong><br/>
-      <sub>Multilingual Transformer system with Seq2Seq magic. BLEU score approved.</sub><br/>
-      <a href="https://github.com/swethareddyganta/Language-Translation">🔗 Explore Project</a>
-    </td>
-  </tr>
-</table>
+| 🔧 Project | Description |
+|-----------|-------------|
+| [🤖 Intelli-Chat](https://github.com/swethareddyganta/intelli-chat) | Chatbot trained on 60K+ Wikipedia articles, with OpenAI for brains |
+| [🧠 Meme Persuasion Detector](https://github.com/swethareddyganta/MemePersuasionDetection) | NLP + CV to detect persuasive memes — meme-ception achieved |
+| [🧰 LLM Red Hat Toolkit](https://github.com/swethareddyganta/LLM_Redhat_Toolkit) | Enterprise toolkit for LLM fine-tuning, quantization, and monitoring |
+| [🌍 Language Translator](https://github.com/swethareddyganta/Language-Translation) | Transformer-based multilingual translator, BLEU-certified! |
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" title="Python"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" title="PyTorch"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" title="TensorFlow"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" title="AWS"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" title="Docker"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" title="Kubernetes"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" title="Git"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" title="Java"/>
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white" title="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/>
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
 </p>
 
-> Hover over each badge to see the tech — no guessing needed.
+---
+
+## ✍️ Writing (The Other Kind)
+
+I used to write poetry, blog posts, and Instagram stories.  
+Words mattered to me before weights and embeddings did.
+
+- 📸 [Instagram: @inkedbyswetha](https://www.instagram.com/inkedbyswetha)  
+- 📝 [WordPress Blog](https://quora952826839.wordpress.com)
 
 ---
 
-## ✍️ Beyond the Code
+## 🌸 Anime I (Emotionally) Survived
 
-📝 I used to write blogs, micro-stories on Instagram, and short-form content until Sept 2023 — and I still love spinning a good sentence.  
-Here’s what I dabbled in:
-
-- ✒️ Long-form blogs on tech & creativity  
-- 📸 Instagram carousels and bite-sized prose  
-- ✍️ Poetry that almost made my code emotional
+- **Attack on Titan** — plot twist central  
+- **Your Name** — cried and rewatched  
+- **Steins;Gate** — trauma and time travel  
+- **Demon Slayer** — for the animation, I swear
 
 ---
 
-## 🌸 Favorite Anime Universes
+## 🤝 Let’s Talk!
 
-I run on plot twists, deep metaphors, and great animation.
+If you’re building something that involves:
+- LLMs, NLP, or AI systems  
+- A team that appreciates clean code and clean humor  
+- Anything cool with code and creativity
 
-- *Attack on Titan* — 10/10 would cry again  
-- *Your Name* — the feels, the music, the visuals   
-- *Demon Slayer* — the aesthetics, the action, the Nezuko
-...and many more
----
-
-## 📬 Let’s Chat!
-
-- ✉️ [Email](mailto:swethaganta0408@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/swetha-reddy-ganta)  
-- 🧠 [Portfolio](http://swethareddyganta.com/)  
-- 🧪 [GitHub Projects](https://github.com/swethareddyganta)
+📧 [swethaganta0408@gmail.com](mailto:swethaganta0408@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/swetha-reddy-ganta)  
+🌍 [Portfolio](http://swethareddyganta.com/)  
+👩‍💻 [GitHub](https://github.com/swethareddyganta)
 
 ---
 
 <p align="center">
-  <em>“Real AI engineers don’t sleep — we just caffeinate and fine-tune.”</em><br/>
-  <sub>– Swetha, probably at 2AM, tweaking a loss function</sub>
+  <em>“Some build LLMs, some write poems, I do both — with extra semicolons.”</em><br/>
+  <sub>– Swetha</sub>
 </p>
