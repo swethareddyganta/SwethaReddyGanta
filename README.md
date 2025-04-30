@@ -1,19 +1,4 @@
-<!-- Header Banner Simulation -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkczE2MGM1anRxYnd4ZnFnNzc0eGxrN2lrbWx5b3A4YXFsNzBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KH26c44GWcwlty8DnW/giphy.gif" width="100%" alt="coding animation" />
-</p>
-
-<h1 align="center"> Swetha Reddy Ganta</h1>
-<p align="center">
-  <em>AI Engineer | Writer at heart | Anime Enthusiast (not a weeb) | Open to work</em>
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+by+Day+🤖;Writer+by+Night+✍️;Anime+Buff+24%2F7+🌀" />
-</p>
-
----
+[![github-header-image](https://github.com/user-attachments/assets/0d92b066-1565-4cbd-88b6-312ce0e1900b)](swethareddyganta.com)
 
 ## 👋 About Me
 
