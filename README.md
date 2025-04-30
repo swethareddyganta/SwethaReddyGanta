@@ -5,7 +5,7 @@
 
 <h1 align="center"> Swetha Reddy Ganta</h1>
 <p align="center">
-  <em>AI Engineer | Writer at heart | Anime Enthusiast (not a weeb) | **Open to work**</em>
+  <em>AI Engineer | Writer at heart | Anime Enthusiast (not a weeb) | Open to work</em>
 </p>
 
 <!-- Typing animation -->
