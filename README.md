@@ -4,10 +4,7 @@
   <em>AI Engineer | Creative Writer | Anime Buff (Not a Weeb) | Open to Work</em>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1943c5&center=true&vCenter=true&width=435&lines=AI+Engineer+by+Day+🤖;Writer+by+Night+✍️;Anime+Buff+24%2F7+🌀" />
-</p>
+
 
 ## 👩‍💻 About Me
 
