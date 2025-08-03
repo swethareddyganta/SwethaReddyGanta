@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Swetha — an AI Engineer who codes with logic, writes with feeling, and binge-watches with popcorn.  
+I'm Swetha, an AI Engineer who codes with logic, writes with feeling, and binge-watches with popcorn.  
 Graduated with a Master’s in AI from **SUNY Buffalo**, and currently **looking for full-time AI/ML opportunities**.
 
 ---
