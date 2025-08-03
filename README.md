@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm Swetha Reddy Ganta</h3>
 
 <p align="center">
-  <em>AI Engineer | Creative Writer | Anime Buff (Not a Weeb) | Open to Work</em>
+  <em>AI Engineer | Creative Writer | Open to Work</em>
 </p>
 
 
